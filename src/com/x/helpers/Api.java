@@ -1,3 +1,5 @@
+package com.x.helpers;
+
 import com.google.gson.Gson;
 import com.x.models.ErrorResponse;
 import com.x.models.ExchangeRate;

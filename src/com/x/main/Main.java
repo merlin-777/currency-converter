@@ -1,3 +1,7 @@
+package com.x.main;
+
+import com.x.helpers.Api;
+import com.x.helpers.HelperCurrency;
 import com.x.models.PairConversion;
 
 import java.util.Scanner;
