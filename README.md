@@ -18,3 +18,8 @@ Este programa te permite convertir entre diferentes monedas de todo el mundo de 
     - Ejecuta el programa y selecciona la opción de búsqueda de código de moneda.
     - Ingresa el nombre del país o una parte del nombre.
     - El programa te mostrará el código de moneda correspondiente.
+
+<img src="img/menu.png" alt="menu" width="350" height="150">
+<img src="img/option-1.png" alt="option 1" width="350" height="150">
+<img src="img/option-2.png" alt="option 2" width="350" height="150">
+
